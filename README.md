@@ -2,7 +2,7 @@
 
 A simple matrix claculator written in C++ that allow you to make spcefic operations on a matrix using Lenear algebrea rules.
 
-# Available operrations (UP TILL NOW)
+# Available operations (UP TILL NOW)
 - How to add two matrcies.
 - How to to subtract two matrcies.
 - How to multiply two matrcies.
